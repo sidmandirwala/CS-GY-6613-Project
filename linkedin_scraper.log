@@ -1,0 +1,8 @@
+2024-12-08 03:29:01.806 | INFO     | __main__:extract:100 - Profile already exists in the database: https://www.linkedin.com/in/sundarpichai/
+2024-12-08 03:29:01.806 | INFO     | __main__:close:246 - Closing the WebDriver.
+2024-12-08 03:29:10.809 | INFO     | __main__:extract:100 - Profile already exists in the database: https://www.linkedin.com/in/sundarpichai/
+2024-12-08 03:29:10.811 | INFO     | __main__:close:246 - Closing the WebDriver.
+2024-12-08 03:29:55.812 | INFO     | __main__:extract:100 - Profile already exists in the database: https://www.linkedin.com/in/sundarpichai/
+2024-12-08 03:29:55.813 | INFO     | __main__:close:246 - Closing the WebDriver.
+2024-12-08 03:30:09.007 | INFO     | __main__:extract:100 - Profile already exists in the database: https://www.linkedin.com/in/sundarpichai/
+2024-12-08 03:30:09.008 | INFO     | __main__:close:246 - Closing the WebDriver.
